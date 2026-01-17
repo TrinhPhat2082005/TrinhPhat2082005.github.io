@@ -34,7 +34,7 @@ description: >- # this means to ignore newlines until "baseurl:"
    Hệ thống kiến thức về mô hình 
 twitter_username: username
 github_username: TrinhPhat2082005
-minimal_mistakes_skin: "white"
+minimal_mistakes_skin: air
 search: true
 
 # Build settings
